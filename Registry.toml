@@ -1,0 +1,5 @@
+name = "ROOTTempRegistry"
+uuid = "eb10494e-b35d-4b48-b787-eeadaf175e78"
+repo = "https://github.com/grasph/ROOTTempRegistry.git"
+
+[packages]
